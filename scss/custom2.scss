@@ -220,6 +220,18 @@ body.dark-mode {
    .form-control {
       border: 0px !important;
    }
+   .alert-dismissible .close {
+      color: $gray-800 !important;
+   }
+   .dropdown-menu {
+      background-color: $gray-800;
+   }
+   .dropdown-item {
+      color: $gray-300;
+   }
+   .dropdown-item:hover {
+      background-color: $gray-600;
+   }
 }
 
 

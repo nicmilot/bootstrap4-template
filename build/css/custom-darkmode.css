@@ -112,6 +112,14 @@ body.dark-mode {
     height: 1.25; }
   body.dark-mode .form-control {
     border: 0px !important; }
+  body.dark-mode .alert-dismissible .close {
+    color: #39424B !important; }
+  body.dark-mode .dropdown-menu {
+    background-color: #39424B; }
+  body.dark-mode .dropdown-item {
+    color: #e5e8ec; }
+  body.dark-mode .dropdown-item:hover {
+    background-color: #717d8a; }
 
 /*======================================= 
       Colors Demo ===============================*/
